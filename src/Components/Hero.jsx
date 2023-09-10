@@ -15,7 +15,7 @@ const Hero = () => {
 
         <div className="flex mt-10 flex-wrap font-fightNight items-center justify-center gap-x-10 gap-y-5">
           <a
-            href=""
+            href="https://t.me/RHCvsD"
             className="w-44 h-14 px-8 py-4 bg-yellow-400 rounded-full justify-center items-center gap-2.5 inline-flex"
           >
             <div className="text-black text-base font-normal leading-snug tracking-tight">

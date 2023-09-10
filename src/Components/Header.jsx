@@ -33,10 +33,10 @@ const Header = () => {
         </ul>
 
         <div className="hidden md:flex items-center gap-2 justify-between">
-          <a href="" className="">
+          <a href="https://t.me/RHCvsD" className="">
             <img src={telegram} alt="" />
           </a>
-          <a href="" className="">
+          <a href="https://twitter.com/RHCvsD" className="">
             <img src={twitter} alt="" />
           </a>
         </div>
