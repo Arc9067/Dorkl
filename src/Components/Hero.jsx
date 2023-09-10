@@ -10,7 +10,7 @@ const Hero = () => {
         </h1>
         <h1 className="font-fightNight text-5xl text-center md:text-7xl strokeIt text-red-700">
           Red Hot Cock <span className="text-yellow-400">and</span>{" "}
-          <span className="text-black">Droki</span>
+          <span className="text-black">Dorkl</span>
         </h1>
 
         <div className="flex mt-10 flex-wrap font-fightNight items-center justify-center gap-x-10 gap-y-5">

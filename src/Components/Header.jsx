@@ -14,7 +14,7 @@ const Header = () => {
           className="font-fightNight text-2xl md:text-3xl text-red-700"
         >
           Red Hot Cock <span className="text-yellow-400">and</span>{" "}
-          <span className="text-black">Droki</span>
+          <span className="text-black">Dorkl</span>
         </a>
 
         <ul className="hidden lg:flex  items-center gap-12 capitalize ">
