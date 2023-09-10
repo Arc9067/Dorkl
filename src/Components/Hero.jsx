@@ -19,7 +19,7 @@ const Hero = () => {
             className="w-44 h-14 px-8 py-4 bg-yellow-400 rounded-full justify-center items-center gap-2.5 inline-flex"
           >
             <div className="text-black text-base font-normal leading-snug tracking-tight">
-              Play Now
+              Telegram
             </div>
           </a>
           <a
